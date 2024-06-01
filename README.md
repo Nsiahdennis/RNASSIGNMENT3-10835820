@@ -13,5 +13,19 @@ BUtton In React Native, the Button component is used to create clickable buttons
 In React Native, the `Image` component is used for displaying images, including icons and other visual content.
 
 
+FlatList` is best suited for rendering simple, flat lists of data. It’s efficient for rendering large lists because it only renders items that are currently visible on the screen
+
+
+
+In React Native, the Button component is used to create clickable buttons that can trigger actions when pressed. It is a simple and standard way to handle user interactions
+
+
+
+
+![rent](https://github.com/Nsiahdennis/RNASSIGNMENT3-10835820/assets/107279326/5dc23ab3-63ef-4c43-8aac-438f07580e79)
+
+
+
+
 
 
