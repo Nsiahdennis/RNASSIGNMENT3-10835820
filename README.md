@@ -10,6 +10,8 @@ Stylesheet:In React Native, `StyleSheet` is used to create an abstraction for de
 
 BUtton In React Native, the Button component is used to create clickable buttons that can trigger actions when pressed. It is a simple and standard way to handle user interactions.
 
+In React Native, the `Image` component is used for displaying images, including icons and other visual content.
+
 
 
 
