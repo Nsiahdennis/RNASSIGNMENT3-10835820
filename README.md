@@ -8,3 +8,8 @@ TextInput:The `TextInput` component in React Native is essential for collecting 
 
 Stylesheet:In React Native, `StyleSheet` is used to create an abstraction for defining component styles. It provides a consistent and performant way to style your React Native applications
 
+BUtton In React Native, the Button component is used to create clickable buttons that can trigger actions when pressed. It is a simple and standard way to handle user interactions.
+
+
+
+
